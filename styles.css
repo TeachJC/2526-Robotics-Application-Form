@@ -1,5 +1,5 @@
 body {
-    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-family: 'Gill Sans';
     background-image: url(Wallpaperrobot.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -93,3 +93,4 @@ footer p {
     height: auto;
     border-radius: 8px;
 }
+
